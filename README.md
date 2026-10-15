@@ -1,11 +1,11 @@
-# CipherDrop
+# Qubivault
 
 Quantum-safe, one-time file sharing. Files, filenames, and file types are
 all encrypted **in the browser** with ML-KEM-512 (NIST FIPS 203) +
 AES-256-GCM before anything leaves your machine — the server only ever
 stores and forwards ciphertext.
 
-**Live:** https://cipherdrop-rtc1.onrender.com
+**Live:** https://Qubivault-rtc1.onrender.com
 *(free-tier hosting — sleeps after 15 min of inactivity, first request
 after that can take 30–50s to wake it back up)*
 
